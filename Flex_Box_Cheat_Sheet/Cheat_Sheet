@@ -18,5 +18,3 @@ flex-basis: <length> | auto;
 flex: shorthand for grow, shrink, and basis (default: 0 1 auto) 
  
 align-self: overrides alignment set on parent 
-
-copyrights@:Frontend Masters
